@@ -5,8 +5,8 @@ This repository contains inference code for the paper ["Deep learning for transe
 
 To get started, clone this repository and navigate into it:
 ```
-git clone https://github.com/echonet/tee-view-classification.git
-cd tee-view-classification
+git clone https://github.com/echonet/tee-view-classifier.git
+cd tee-view-classifier
 ```
 
 Then, create a `conda` environment and install the required packages into it:
